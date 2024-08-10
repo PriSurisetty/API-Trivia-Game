@@ -1,4 +1,5 @@
 Trivia Game with Tkinter:
+
 This is a Math Trivia Game application built with Tkinter, designed to test your knowledge with true/false questions. The application fetches questions using a Trivia API and presents them to the user in an interactive interface.
 
 Overview:
