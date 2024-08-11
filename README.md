@@ -6,7 +6,7 @@ This is a Math Trivia Game application built with Tkinter, designed to test your
 
 [![Watch the video](https://via.placeholder.com/320x180)](https://github.com/user-attachments/assets/08d0438f-0ef0-4a54-ad34-527052bc7586)
 
-# After the quiz is over, the results are displayed onto the console:
+**After the quiz is over, the results are displayed onto the console**:
 
 <img width="400" alt="Screenshot 2024-08-11 at 11 34 02 AM" src="https://github.com/user-attachments/assets/61aa89f7-985a-4030-9d31-a4be29c9edce">
 
