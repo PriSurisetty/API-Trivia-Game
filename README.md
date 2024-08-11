@@ -4,9 +4,7 @@
 
 This is a Math Trivia Game application built with Tkinter, designed to test your knowledge with true/false questions. The application fetches questions using a Trivia API and presents them to the user in an interactive interface.
 
-<a href="https://github.com/user-attachments/assets/08d0438f-0ef0-4a54-ad34-527052bc7586">
-    <img src="https://via.placeholder.com/320x180" alt="Watch me" width="320" height="180" />
-</a>
+[![Watch the video](https://via.placeholder.com/320x180)](https://github.com/user-attachments/assets/08d0438f-0ef0-4a54-ad34-527052bc7586)
 
 
 ## Features
